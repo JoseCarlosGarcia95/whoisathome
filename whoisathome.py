@@ -36,7 +36,7 @@ if not first_run:
     report = open('report.json', 'r')
 
 new_report = {}
-1
+
 if first_run:
     old_report = {}
 else:
